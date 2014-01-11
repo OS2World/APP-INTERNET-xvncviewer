@@ -1,0 +1,46 @@
+Xt-based VNC viewer version 3.3.3r1
+       for XFree86/OS2 3.3.6
+===================================
+   This copy of Xt-based VNC viewer 3.3.3r1 has been compiled with using
+the emx 0.9d FIX 02 development tools and XFree86/OS2 3.3.6.  It can be
+used under OS/2.
+   VNC is Copyright (C) 1999 AT&T Laboratories Cambridge.  All Rights
+Reserved.  This software is distributed under the GNU General Public
+Licence as published by the Free Software Foundation.
+
+
+* SOFTWARE REQUIREMENTS
+========================
+      o OS/2 WARP 3.0 or lator
+
+      o emx 0.9d FIX 02 or newer runtime (emxrt.zip).  It can be found
+	at:
+		ftp://ftp.leo.org/pub/comp/os/os2/leo/gnu/emx+gcc/
+		ftp://ftp-os2.nmsu.edu/pub/os2/dev/emx/v0.9d/
+	or their mirrors.
+
+      o XFree86/OS2 3.3.6 or newer runtime (Xbin.zip).	It can be found
+	at:
+		http://www.xfree86.org/
+	or its mirrors.
+
+* NOTES
+========
+   Please see man page (which is at XFree86/man/man1/xvncviewer.1x.gz).
+It was copied from Debian GNU Linux, and is *NOT* official users manual.
+If you want to see the official documentations or want to get source, they
+can be found at:
+	http://www.uk.research.att.com/vnc/
+
+   Some changes I made are shown in:
+	XFree86/src/diffs/vnc-3.3.3r1.diff.gz
+
+   If you want vnc server for XFree86/OS2 or the vnc viewer for OS/2 PM,
+visit Akira Hatayama san's home page at:
+	http://www.sra.co.jp/people/akira/
+
+   The latest version of Xt-based VNC viewer compiled by me is at:
+	http://www.vector.co.jp/authors/VA000199/os2/
+
+							  Kyosuke TOKORO
+						    NBG01720@nifty.ne.jp

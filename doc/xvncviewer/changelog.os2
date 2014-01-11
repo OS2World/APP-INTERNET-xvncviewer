@@ -1,0 +1,11 @@
+xvncviewer 3.3.3r1 -- 6 Mar 2000
+
+  * New upstream version
+  * Bug fix: function which reads keyboard to get password has been
+    replaced to another function which reads standard input
+  * Bug fix: Inhibit echo back when reading password
+
+
+xvncviewer 3.3.3 -- 17 Jan 2000
+
+  * Compiled for XFree86/OS2
